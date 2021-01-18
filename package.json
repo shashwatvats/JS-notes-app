@@ -1,0 +1,19 @@
+{
+  "name": "javascript-notes-assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json -s public",
+    "eslint": "./node_modules/.bin/eslint *.js '**/*.js'"
+  },
+  "author": "Ravi Chandran",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^7.18.0",
+    "json-server": "^0.16.3",
+    "mocha": "^8.2.1"
+  }
+}
