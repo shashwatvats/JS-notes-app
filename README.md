@@ -2,7 +2,7 @@
 
 ## Objective
 
-Assessment on creaing web application using HTML, CSS, Bootstrap and Javascript.
+Assessment on creating web application using HTML, CSS, Bootstrap and Javascript.
 
 ## Prerequisites
 
