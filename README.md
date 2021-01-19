@@ -41,9 +41,13 @@ Assessment on creaing web application using HTML, CSS, Bootstrap and Javascript.
 2.  It is mandatory to use Fetch API and Promises for all the HTTP calls
 3.  `public/js/script.js` is expected to have four functions -  
     a. `getNotes()` - to fetch notes from `http://localhost:3000/notes`, populate them in DOM under `<div id="notes">`.
+
     b. `addNote()` - to add a new note and post the note to db.json via `http://localhost:3000/notes`
+    
     c. `deleteNote()` - to delete a note from the UI as well as from db.json via `http://localhost:3000/notes`. This function accepts an id.
-    d. `editNote()` - to edit a note from the UI as well as from db.json via `http://localhost:3000/notes`. This function accepts an id.
+    
+    d. `editNote()` - to edit a note from the UI as well as from db.json via `http://localhost:3000/notes`. This function accepts the data as parameter that is edited.
+    
 4.  `public/index.html` - Notes list to be populated under `<div id="notes">`, `getNotes()` to be invoked as shown in the file
 5.  You shall fix any eslint errors if present in code. To run eslint check locally, you shall execute `npm run eslint`
 6.  Once you have fixed all test cases and eslint errors locally, you shall submit your solution for the manual review.
