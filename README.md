@@ -31,7 +31,7 @@ Assessment on creaing web application using HTML, CSS, Bootstrap and Javascript.
 2. Create a Section/List **_Notes_** in your HTML page.
 3. **_Notes_** section of the page should populate all the notes from the db.json using AJAX calls.
 4. You should be able to add, delete, edit and get all notes
-5. For adding a new note and for editing you can use Bootstrap Dialog boxes for the add new note form and edit note form.
+5. For adding a new note and for editing you can use Bootstrap Dialog boxes for the add new note form and edit note form or can have the forms in the same page.
 6. The forms can have an input text field for adding/editing `title` of the note and a text area for `text` of the note.
 7. Page should not refresh when adding, deleting or editing a note
 
