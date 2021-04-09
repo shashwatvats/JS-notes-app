@@ -1,3 +1,14 @@
 {
-  "notes": []
+  "notes": [
+    {
+      "title": "React",
+      "text": "React js is a javascript framework",
+      "id": 1
+    },
+    {
+      "title": "Jquery",
+      "text": "Angular is a Javascript framework",
+      "id": 2
+    }
+  ]
 }
